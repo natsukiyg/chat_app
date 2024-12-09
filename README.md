@@ -3,7 +3,9 @@
 ## 2.課題内容（どんな作品か）
 - 前回の課題のTodoリストを活用し、タスク管理アプリを作成しました。
 ## 3.DEMO　※デプロイが難しい場合のみ、動画やそのURLを記載
-https://github.com/user-attachments/assets/273168fa-5005-4200-9e7c-1dc5f9a832e7
+
+https://github.com/user-attachments/assets/526bd03d-38ac-4f9b-badf-84cdc1470915
+
 ## 4.作ったアプリケーション用のIDまたはPasswordがある場合
   
 ## 5.工夫した点・こだわった点
